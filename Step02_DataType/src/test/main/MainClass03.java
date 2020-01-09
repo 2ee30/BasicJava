@@ -24,13 +24,3 @@ public class MainClass03 {
 		
 	}
 }
-
-
-
-
-
-
-
-
-
-
